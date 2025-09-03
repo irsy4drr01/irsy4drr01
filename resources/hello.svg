@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="80">
+  <style>
+    .text {
+      font-family: 'Fira Code', monospace;
+      font-size: 20px;
+      font-weight: 400;
+      fill: #36BCF7;
+    }
+  </style>
+  <text x="50%" y="40%" text-anchor="middle" class="text">
+    Hello There
+  </text>
+  <text x="50%" y="75%" text-anchor="middle" class="text">
+    I'm Irsyad Ridho Romadhon
+  </text>
+</svg>
