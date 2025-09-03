@@ -1,4 +1,6 @@
-<img src="./resources/hello.svg" alt="Hello There - Irsyad Ridho Romadhon" />
+<div align="center">
+  <img src="./resources/hello.svg" alt="Hello There - Irsyad Ridho Romadhon" />
+</div>
 
 ---
 
@@ -66,10 +68,6 @@ I’m also available to work with **JavaScript** if needed.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irsy4drr01&show_icons=true&theme=algolia&count_private=true&hide=prs" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsy4drr01&layout=compact&theme=algolia" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=irsy4drr01" alt="Github Contribution Stats" width="80%"/>
 </p>
 
 ---
