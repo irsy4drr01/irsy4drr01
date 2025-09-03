@@ -7,8 +7,7 @@
 ## 🚀 About Me
 
 I'm a passionate **Full-Stack Developer** who loves building scalable and secure web applications.  
-Currently focusing on **Golang, PostgreSQL, and React**, with a strong interest in **backend architecture, APIs**, and creating seamless **frontend experiences**.  
-I’m also available to work with **JavaScript** if needed.
+Currently focusing on **Golang**, **PostgreSQL** and **React (TypeScript)**, with a strong interest in **backend architecture**, **APIs**, and creating seamless **frontend experiences**, while also open to working with **JavaScript** when needed.
 
 ---
 
