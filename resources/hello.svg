@@ -1,31 +1,14 @@
-<!-- <svg xmlns="http://www.w3.org/2000/svg" width="500" height="80">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100">
   <style>
     .text {
       font-family: 'Fira Code', monospace;
-      font-size: 20px;
+      font-size: 35px;
       font-weight: 400;
       fill: #36BCF7;
     }
   </style>
   <text x="50%" y="40%" text-anchor="middle" class="text">
-    Hello There
+    <tspan x="50%" dy="0">Hello There</tspan>
+    <tspan x="50%" dy="45">I'm Irsyad Ridho Romadhon</tspan>
   </text>
-  <text x="50%" y="75%" text-anchor="middle" class="text">
-    I'm Irsyad Ridho Romadhon
-  </text>
-</svg> -->
-
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="80">
-  <style>
-    .text {
-      font-family: 'Fira Code', monospace;
-      font-size: 20px;
-      font-weight: 400;
-      fill: #36BCF7;
-    }
-  </style>
-  <g text-anchor="middle" dominant-baseline="middle" transform="translate(250,40)">
-    <text class="text" y="-15">Hello There</text>
-    <text class="text" y="15">I'm Irsyad Ridho Romadhon</text>
-  </g>
 </svg>
