@@ -31,6 +31,15 @@
       font-weight: 500;
       color: #333;
     }
+    button {
+      background: #0366d6;
+      color: #fff;
+      border: none;
+      padding: 10px 16px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 600;
+    }
     #notice {
       margin-top: 12px;
       color: green;
@@ -51,12 +60,16 @@
     <!-- Email -->
     <p id="emailText">irsyadridho.r@gmail.com</p>
 
+    <!-- Copy Button -->
+    <button id="copyBtn">Copy Email</button>
+
     <!-- Notification -->
     <div id="notice">Email copied to clipboard!</div>
   </div>
 
   <script>
     const email = "irsyadridho.r@gmail.com";
+    const copyBtn = document.getElementById("copyBtn");
     const notice = document.getElementById("notice");
 
     async function copyEmail() {
@@ -69,8 +82,7 @@
       }
     }
 
-    // Auto copy when page loads
-    window.addEventListener("load", copyEmail);
+    copyBtn.addEventListener("click", copyEmail);
   </script>
 </body>
 </html>
