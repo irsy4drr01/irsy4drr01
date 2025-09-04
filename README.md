@@ -71,6 +71,6 @@ Currently focusing on **Golang**, **PostgreSQL** and **React (TypeScript)**, wit
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=irsy4drr01&label=PROFILE%20VIEWS%20%20&color=36BCF7&style=for-the-badge" alt="irsy4drr01"/>
-</p>
+</p> -->
