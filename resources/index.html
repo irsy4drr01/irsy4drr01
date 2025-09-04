@@ -68,11 +68,11 @@
   </div>
 
   <script>
-    const email = "irsyadridho.r@gmail.com"; // change to your email
+    const email = "irsyadridho.r@gmail.com";
     const copyBtn = document.getElementById("copyBtn");
     const notice = document.getElementById("notice");
 
-    async function copyEmail() {
+    copyBtn.addEventListener("click", async () => {
       try {
         await navigator.clipboard.writeText(email);
         notice.style.display = "block";
@@ -80,9 +80,7 @@
       } catch (err) {
         alert("Failed to copy. Please copy manually: " + email);
       }
-    }
-
-    copyBtn.addEventListener("click", copyEmail);
+    });
   </script>
 </body>
 </html>
