@@ -13,8 +13,11 @@ Currently focusing on **Golang**, **PostgreSQL** and **React (TypeScript)**, wit
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/irsyad-ridho-romadhon)  
-- 📧 Email: **irsyadridho.r@gmail.com**
+<!-- - 💼 [LinkedIn](https://www.linkedin.com/in/irsyad-ridho-romadhon)   -->
+<!-- - 📧 Email: **irsyadridho.r@gmail.com** -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irsyad-ridho-romadhon)   
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://irsy4drr01.github.io/irsy4drr01/resources/)
 
 ---
 
@@ -48,15 +51,15 @@ Currently focusing on **Golang**, **PostgreSQL** and **React (TypeScript)**, wit
 ---
 
 ## 📌 Projects
-- [☕ Coffee Shop App](https://github.com/irsy4drr01/coffee_shop)   
+- [☕ **Coffee Shop App**](https://github.com/irsy4drr01/coffee_shop)   
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- [💳 E-Wallet App](https://github.com/irsy4drr01/e-wallet)     
+- [💳 **E-Wallet App**](https://github.com/irsy4drr01/e-wallet)     
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- [🎫 Tickitz App](https://github.com/irsy4drr01/tickitz)   
+- [🎫 **Tickitz App**](https://github.com/irsy4drr01/tickitz)   
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
