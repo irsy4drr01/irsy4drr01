@@ -31,15 +31,6 @@
       font-weight: 500;
       color: #333;
     }
-    button {
-      background: #0366d6;
-      color: #fff;
-      border: none;
-      padding: 10px 16px;
-      border-radius: 8px;
-      cursor: pointer;
-      font-weight: 600;
-    }
     #notice {
       margin-top: 12px;
       color: green;
@@ -49,7 +40,7 @@
 </head>
 <body>
   <div class="card">
-    <!-- Ikon email -->
+    <!-- Email icon -->
     <div class="logo">
       <svg viewBox="0 0 24 24" fill="none" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
         <rect x="1.5" y="4" width="21" height="16" rx="2" stroke="#0366d6" stroke-width="1.5" fill="none"/>
@@ -60,16 +51,12 @@
     <!-- Email -->
     <p id="emailText">irsyadridho.r@gmail.com</p>
 
-    <!-- Tombol copy -->
-    <button id="copyBtn">Copy Email</button>
-
-    <!-- Notifikasi -->
-    <div id="notice">Email has been copied to clipboard!</div>
+    <!-- Notification -->
+    <div id="notice">Email copied to clipboard!</div>
   </div>
 
   <script>
-    const email = "irsyadridho.r@gmail.com"; // ganti sesuai email
-    const copyBtn = document.getElementById("copyBtn");
+    const email = "irsyadridho.r@gmail.com";
     const notice = document.getElementById("notice");
 
     async function copyEmail() {
@@ -78,11 +65,12 @@
         notice.style.display = "block";
         setTimeout(() => notice.style.display = "none", 2000);
       } catch (err) {
-        alert("Copy Email failed, please copy manually: " + email);
+        alert("Failed to copy. Please copy manually: " + email);
       }
     }
 
-    copyBtn.addEventListener("click", copyEmail);
+    // Auto copy when page loads
+    window.addEventListener("load", copyEmail);
   </script>
 </body>
 </html>
